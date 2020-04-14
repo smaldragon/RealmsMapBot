@@ -7,4 +7,4 @@ A discord map bot for civrealms
 * map [interactive/terrain/political/rail] :x:
 * near [coord] :x:
 * version :x:
-+ help [server/bot] :x:
+* help [server/bot] :x:
